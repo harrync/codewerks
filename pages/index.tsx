@@ -12,8 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Something new and shiny coming soon" />
-        <p className="description">Hello
-        </p>
       </main>
 
       <Footer />
